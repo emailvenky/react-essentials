@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <h2>Get a new quote by clicking the button below:</h2>
+      <h2>Get inspired:</h2>
       <button onClick={getQuote}>Get Quote</button>
       {quote && <h1>{quote}</h1>}
     </>
