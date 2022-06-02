@@ -1,7 +1,7 @@
 
 
 
-# Getting Started with Create React App
+# React App for wise quotes
 
 ---------------
 ## Deployed on : https://calm-coast-28217.herokuapp.com/
