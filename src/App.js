@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <h1>
-        <button style={{ borderRadius: "50px" }} onClick={getQuote}>
+        <button style={{ borderRadius: "60px" }} onClick={getQuote}>
           <h1>Get Inspired</h1>
         </button>
       </h1>
